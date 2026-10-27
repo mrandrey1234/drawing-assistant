@@ -1,0 +1,21 @@
+.deps/
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+data/
+local_ai/runtime/
+local_ai/models/
+local_ai/*.zip
+local_ai/*.log
+local_ai/*result*.json
+local_ai/last_incomplete_response.txt
+ocr_improved.txt
+ocr_probe.json
+Примеры чертежей/*
+!Примеры чертежей/Как проверить.txt
+.env
+.env.*
+!.env.example
+*.sqlite3
+*.sqlite3-*
